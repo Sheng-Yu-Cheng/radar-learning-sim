@@ -2,6 +2,8 @@
 
 這是一個用來學 ADPAR / phased-array radar signal processing 的小型 Python framework。它不是高保真商用雷達模擬器，而是一個**能穩定產生 datacube 與課堂式圖形的學習工具**。
 
+你可以cite到開ADPAR這們課的老師黃彥銘，course link: https://sites.google.com/view/yenming/teaching#h.fq1z9eg4562
+
 它目前支援：
 
 - pulsed LFM waveform
