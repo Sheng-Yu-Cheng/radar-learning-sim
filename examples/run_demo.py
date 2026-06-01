@@ -36,7 +36,7 @@ from radar_learning_sim.plotting import (
 
 
 def main():
-    outdir = Path("outputs")
+    outdir = Path("outputs/run_demo")
     outdir.mkdir(exist_ok=True)
 
     cfg = RadarConfig(
